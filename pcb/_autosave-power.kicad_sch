@@ -1,0 +1,30 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 991ba55c-eecc-4976-a59c-e8b4b4113ade)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 97.79 85.09) (size 39.37 29.21) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid b7240a30-1bee-4191-bf7e-5ddd9c733f03)
+    (property "Sheetname" "battery_switch" (at 97.79 84.3784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "battery_switch.kicad_sch" (at 97.79 114.8846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (property "Field2" "" (at 97.79 85.09 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "keyboard_rev1"
+        (path "/852c14e7-e96f-4561-abcc-b12c50d3192d/a5120b75-838b-4b60-807c-a90d60ab915c" (page "27"))
+      )
+    )
+  )
+)
