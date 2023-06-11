@@ -350,6 +350,42 @@
       "switches"
     ],
     [
+      "cc2aaf10-2765-4c7a-be28-2dd78cd27095",
+      "battery1"
+    ],
+    [
+      "22e15519-ca35-43e9-97f2-9f2538d110f9",
+      "buck_boost1"
+    ],
+    [
+      "5928f97f-1ffc-4143-b68b-94e89f7ed2f9",
+      "esp_usb"
+    ],
+    [
+      "3d8b433c-1cd5-4c49-a553-28bae0723a61",
+      "nreset"
+    ],
+    [
+      "d3184663-f0c3-41c9-aed1-d6ff29b42435",
+      "boot"
+    ],
+    [
+      "dde3a3d0-01c8-416c-8691-59fbd4297ac6",
+      "debug_led"
+    ],
+    [
+      "a5120b75-838b-4b60-807c-a90d60ab915c",
+      "power"
+    ],
+    [
+      "b5a848d1-265c-44cc-99a3-81a14aa1fcf5",
+      "bluetooth"
+    ],
+    [
+      "45ceef03-fc18-497e-a867-579013fde664",
+      "switch0"
+    ],
+    [
       "269c5cfc-5387-4ab3-8642-f90b7f3f2133",
       "switch1"
     ],
@@ -362,16 +398,20 @@
       "switch3"
     ],
     [
-      "45ceef03-fc18-497e-a867-579013fde664",
-      "switch0"
-    ],
-    [
       "d812b32e-ac0b-4760-89f5-153937a8714d",
       "switch4"
     ],
     [
+      "d54e4ebe-cafb-4c43-818e-14e2f461ca31",
+      "switch5"
+    ],
+    [
       "d820082c-e40b-444f-901d-df30e731cf81",
       "switch6"
+    ],
+    [
+      "deab5fc8-0b9c-4480-8af7-78a15269aead",
+      "switch7"
     ],
     [
       "9cba0194-5fa7-4bf5-b98c-c7d691f861e2",
@@ -382,52 +422,32 @@
       "switch9"
     ],
     [
-      "deab5fc8-0b9c-4480-8af7-78a15269aead",
-      "switch7"
-    ],
-    [
-      "d54e4ebe-cafb-4c43-818e-14e2f461ca31",
-      "switch5"
-    ],
-    [
-      "9b747d81-1c48-4225-a8ce-1c1113ca42bc",
-      "switch16"
-    ],
-    [
-      "d1c853dd-5324-4bb3-a340-b3ff13d00c0b",
-      "switch15"
-    ],
-    [
-      "a4039cad-65c4-43c2-849c-138c22e093bc",
-      "switch12"
-    ],
-    [
-      "d275fd74-75c9-46bf-b9bc-85522cbd1ca3",
-      "switch14"
-    ],
-    [
-      "3d8b433c-1cd5-4c49-a553-28bae0723a61",
-      "nreset"
-    ],
-    [
-      "e66e206e-8603-4db7-8eea-51538a988080",
-      "switch13"
-    ],
-    [
-      "d3184663-f0c3-41c9-aed1-d6ff29b42435",
-      "boot"
+      "033291e0-ce28-4d42-9958-c5ed3f1d36cb",
+      "switch10"
     ],
     [
       "fe9b7d3f-3ebd-4620-942b-83341dd85ff9",
       "switch11"
     ],
     [
-      "dde3a3d0-01c8-416c-8691-59fbd4297ac6",
-      "debug_led"
+      "a4039cad-65c4-43c2-849c-138c22e093bc",
+      "switch12"
     ],
     [
-      "033291e0-ce28-4d42-9958-c5ed3f1d36cb",
-      "switch10"
+      "e66e206e-8603-4db7-8eea-51538a988080",
+      "switch13"
+    ],
+    [
+      "d275fd74-75c9-46bf-b9bc-85522cbd1ca3",
+      "switch14"
+    ],
+    [
+      "d1c853dd-5324-4bb3-a340-b3ff13d00c0b",
+      "switch15"
+    ],
+    [
+      "9b747d81-1c48-4225-a8ce-1c1113ca42bc",
+      "switch16"
     ]
   ],
   "text_variables": {}
